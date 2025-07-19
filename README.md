@@ -22,5 +22,5 @@ My goal is to keep learning, build useful mobile apps, and eventually find the b
 
 ## 📈 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alg-Khlifa-Mouad-Iyad&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alg-Khlifa-Mouad-Iyad&show_icons=true&theme=noctis_minimus)
 <img align="right" src="https://cdn.dribbble.com/userupload/41933024/file/original-cfdca0d7370ea36c47b1bbea299da219.gif" alt="Mobile Developer" width="300" height="400"/>
